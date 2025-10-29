@@ -48,4 +48,5 @@ Bu depo, **eğitimsel amaçlı** yazılım geliştirme çalışmalarını ve sav
    ```bash
    git clone https://github.com/cyberk3ddy/blackhammer.git
    ls
-  python hammer.py
+   cd darkhammer
+   python hammer.py
