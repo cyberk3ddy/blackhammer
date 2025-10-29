@@ -18,7 +18,7 @@ araç Eğitim amaçlı kullanılmalıdır,
 - [Gizlilik ve Güvenlik](#gizlilik-ve-güvenlik)
 - [Lisans](#lisans)
 - [İletişim](#iletişim)
-
+- tiktok.com/@leas3tears
 ---
 
 ## Açıklama
