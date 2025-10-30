@@ -19,6 +19,7 @@ araç Eğitim amaçlı kullanılmalıdır,
 - [Lisans](#lisans)
 - [İletişim](#iletişim)
 - tiktok.com/@leas3tears
+- instagram r0pew93
 ---
 
 ## Açıklama
